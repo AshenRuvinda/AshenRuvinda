@@ -14,7 +14,7 @@
 
 ---
 
-### 🚀 Tech Stack (2030-ready)
+### 🚀 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,react,python,js,ts,dart,figma,firebase,linux,github,java,tailwind,fastapi&perline=8" />
 </p>
