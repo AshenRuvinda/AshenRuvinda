@@ -1,61 +1,64 @@
-<!-- Banner/Header -->
+<!-- Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Ashen+%F0%9F%91%8B;React+%7C+Flutter+%7C+Python+Dev;UI%2FUX+Designer+%7C+Problem+Solver;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1200&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ashen+%F0%9F%8C%9F;Full-Stack+Engineer+%7C+AI+Enthusiast;Crafting+the+future+with+code;2030-ready+Tech+Architect" alt="Typing animation" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me:
-
-- 🔭 Currently working on **Lanka QuickCart 🛒**
-- 👨‍💻 I specialize in full-stack development with modern UI/UX
-- 📱 I build Android, Web, and Desktop apps
-- ⚡ Fun fact: I design with Figma before writing a single line of code!
-
----
-
-### 🛠️ Languages & Tools:
-<p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,dart,python,php,java,html,css,js,figma,sqlite,mysql,vscode,androidstudio,github" />
-</p>
+### 👨‍🚀 About Me
+- 💼 Building **AI-integrated apps** & futuristic interfaces  
+- 📱 Specializing in **Flutter**, **React**, **Python AI** & **microservices**  
+- 🧠 Passionate about **autonomous tech**, **UX innovation**, and **clean architecture**  
+- 🌍 Based in Sri Lanka | Working with global teams  
+- 🎯 Currently focusing on **AI-driven commerce & smart delivery**
 
 ---
 
-### 📊 GitHub Stats:
+### 🚀 Tech Stack (2030-ready)
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,python,js,ts,dart,figma,firebase,linux,github,java,tailwind,fastapi&perline=8" />
 </p>
 
 ---
 
-### 🧠 Top Projects:
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🛒 **Lanka QuickCart** | Finds the cheapest delivery location based on your city | Python, PyQt5, GeoCalc |
-| 🎯 **BidNow** | A real-time auction system for ecommerce | React, Firebase |
-| 🚉 **Train Seat Selector** | Seat layout & QR ticket generation in Flutter | Flutter, Dart |
+### 🧠 Featured Projects
+
+| 🚀 Project | Description | Tech Stack |
+|-----------|-------------|------------|
+| 🌐 **NeuroShop AI** | AI-powered shopping assistant with voice & intent detection | Python, OpenAI, React |
+| 🚗 **Lanka QuickCart** | Geo-smart delivery estimator & cost optimizer | PyQt5, Geopy |
+| 🎨 **Smart UI Generator** | Auto-generates UI from prompt | Flutter, LLM APIs |
 
 ---
 
-### 📈 Visitor Counter:
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react&count_private=true&hide=issues" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=react" width="48%" />
 </p>
 
 ---
 
-### 🌐 Connect With Me:
-<p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://linkedin.com/in/yourlinkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://yourwebsite.dev">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🧘 Quote of the Day:
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+### ⚡ Fun Fact
+> In 2030, the best engineers are *designers*, *strategists*, and *empaths* — not just coders.
+
+---
+
+### 🛰️ Profile Metrics
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
