@@ -10,7 +10,7 @@
 - 📱 Specializing in **Flutter**, **React**, **Python AI** & **microservices**  
 - 🧠 Passionate about **autonomous tech**, **UX innovation**, and **clean architecture**  
 - 🌍 Based in Sri Lanka | Working with global teams  
-- 🎯 Currently focusing on **AI-driven commerce & smart delivery**
+- 🎯 Currently focusing on **AI-driven commerce & smart delivery System**
 
 ---
 
