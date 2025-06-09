@@ -25,7 +25,7 @@
 
 | 🚀 Project | Description | Tech Stack |
 |-----------|-------------|------------|
-| 🌐 **NeuroShop AI** | AI-powered shopping assistant with voice & intent detection | Python, OpenAI, React |
+| 🌐 **E Commerce Website** | Shopping World | React & Firebase |
 | 🚗 **Lanka QuickCart** | Geo-smart delivery estimator & cost optimizer | PyQt5, Geopy |
 | 🎨 **Smart UI Generator** | Auto-generates UI from prompt | Flutter, LLM APIs |
 
