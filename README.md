@@ -48,7 +48,7 @@
   <a href="https://linkedin.com/in/yourlinkedin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://yourwebsite.dev](https://ashenruvinda.github.io/PortfolioWEB-Html-Css-Js-/)">
+  <a href="https://ashenruvinda.github.io/PortfolioWEB-Html-Css-Js-/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
