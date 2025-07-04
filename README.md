@@ -27,7 +27,7 @@
 | 🚀 Project | Description | Tech Stack |
 |-----------|-------------|------------|
 | 🌐 Ashen-Ruvinda-Portfolio | Personal portfolio with a modern, responsive design showcasing my work | HTML, CSS, JavaScript |
-| 📱 T Easy Pay-App | Face recognition-based attendance tracking system | Flutter |
+| 📱 T Easy Pay-App | Train Ticket Booking App | Flutter |
 | 🛒 E-Commerce-Website | Feature-rich e-commerce platform with dynamic UI | React, Firebase |
 
 ---
