@@ -27,15 +27,6 @@
 
 🌐 Let's Connect
 
-  
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&#x26;logo=gmail&#x26;logoColor=e2e8f0&#x26;color=0f172a">
-  
-  
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&#x26;logo=linkedin&#x26;logoColor=e2e8f0&#x26;color=0f172a">
-  
-  
-    <img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&#x26;logo=vercel&#x26;logoColor=e2e8f0&#x26;color=0f172a">
-  
 
 ⚡ Fun Fact
 Code is a canvas — every commit paints a story of innovation.
