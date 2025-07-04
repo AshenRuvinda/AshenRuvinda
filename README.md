@@ -1,64 +1,49 @@
-<!-- Animated Typing Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1200&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ashen+%F0%9F%8C%9F;Full-Stack+Engineer+%7C+AI+Enthusiast;Crafting+the+future+with+code;2030-ready+Tech+Architect" alt="Typing animation" />
-</p>
 
 ---
+👨‍💻 About Ashen Ruvinda
 
-### 👨‍🚀 About Me
-- 💼 Building **AI-integrated apps** & futuristic interfaces  
-- 📱 Specializing in **Flutter**, **React**, **Python AI** & **microservices**  
-- 🧠 Passionate about **autonomous tech**, **UX innovation**, and **clean architecture**  
-- 🌍 Based in Sri Lanka | Working with global teams  
-- 🎯 Currently focusing on **AI-driven commerce & smart delivery System**
+💼 Designing cutting-edge web and mobile apps with a focus on user experience
+📱 Expert in Flutter, Python, React, and modern web technologies
+🧠 Passionate about full-stack development, UI/UX innovation, and open-source projects
+🌍 Based in Sri Lanka | Collaborating with global tech communities
+🎯 Currently building scalable apps and exploring AI-driven solutions
 
+
+🚀 Tech Stack
 ---
+🧠 Featured Projects
 
-### 🚀 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,python,js,ts,dart,figma,firebase,linux,github,java,tailwind,fastapi&perline=8" />
-</p>
 
+
+🚀 Project
+Description
+Tech Stack
+
+
+
+🌐 Ashen-Savinda-Portfolio
+Personal portfolio showcasing my projects with a sleek, responsive design
+HTML, CSS, JavaScript
+
+
+📱 Smart-Attendance-App
+Attendance system with face recognition for efficient tracking
+Flutter, Python
+
+
+🛒 E-Commerce-Website
+Online shopping platform with modern UI and secure backend
+React, Firebase
+
+
+
+📊 GitHub Stats
 ---
+🌐 Let's Connect
 
-### 🧠 Featured Projects
+⚡ Fun Fact
 
-| 🚀 Project | Description | Tech Stack |
-|-----------|-------------|------------|
-| 🌐 **E Commerce Website** | Shopping World | React & Firebase |
-| 🚗 **Lanka QuickCart** | Geo-smart delivery estimator & cost optimizer | PyQt5, Geopy |
-| 🎨 **Smart UI Generator** | Auto-generates UI from prompt | Flutter, LLM APIs |
+Code is poetry — each line weaves functionality and creativity into the digital world.
 
----
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react&count_private=true&hide=issues" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=react" width="48%" />
-</p>
-
----
-
-### 🌐 Let's Connect
-
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yourlinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://ashenruvinda.github.io/PortfolioWEB-Html-Css-Js-/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
-
-### ⚡ Fun Fact
-> In 2030, the best engineers are *designers*, *strategists*, and *empaths* — not just coders.
-
----
-
-### 🛰️ Profile Metrics
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
+🛰️ Profile Metrics
