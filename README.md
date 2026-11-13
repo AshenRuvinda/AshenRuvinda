@@ -1,14 +1,14 @@
- <!-- Header -->
+<!-- Header -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=25&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ashen+Ruvinda;Full-Stack+Software+Developer;Building+Web%2C+Mobile+%26+Desktop+Applications;Exploring+Real-Time+Systems+%26+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=25&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Ashen+Ruvinda;Software+Engineering+Graduate;Full-Stack+Developer;Web%2C+Mobile+%26+Desktop+Applications;Real-Time+Systems+%26+Applied+AI" alt="Typing SVG" />
 
 <p>
-  <b>Software Engineering Undergraduate | Full-Stack Developer</b>
+  <b>Software Engineering Graduate | Full-Stack Developer</b>
 </p>
 
 <p>
-  Designing and developing practical digital solutions through modern technologies, thoughtful engineering, and continuous learning.
+  Designing and building reliable, scalable software through modern technologies, disciplined engineering, and continuous learning.
 </p>
 
 <p>
@@ -23,101 +23,104 @@
 
 ## About Me
 
-I'm **Ashen Ruvinda**, a final-year Software Engineering undergraduate at NSBM Green University, Sri Lanka, passionate about building modern, scalable, and user-focused software applications.
+I am a Software Engineering graduate of NSBM Green University, Sri Lanka, focused on building modern, scalable, and user-centered software. My work spans web, mobile, and desktop platforms, and I am particularly drawn to problems that combine solid engineering with real-world utility.
 
-My primary focus is full-stack development, with experience developing web applications, mobile applications, desktop software, and interactive user interfaces.
+I approach software as a craft: translating requirements into well-structured systems, writing maintainable code, and continuously refining both product and process.
 
-I enjoy transforming ideas into functional software products, exploring emerging technologies, solving engineering challenges, and continuously improving my technical capabilities.
+**Core competencies**
 
-- Full-stack development with the MERN stack.
-- Building modern web applications using React and Next.js.
-- Developing RESTful APIs and backend services.
-- Creating cross-platform mobile applications with Flutter.
-- Developing desktop applications with Electron.js.
-- Exploring real-time data processing, telemetry systems, and AI-integrated solutions.
-- Interested in software architecture, UI/UX, and scalable application design.
+- Full-stack development with the MERN stack
+- Modern web applications with React and Next.js
+- RESTful API design and backend service development
+- Cross-platform mobile development with Flutter
+- Desktop application development with Electron.js
+- Real-time data processing, telemetry systems, and AI-integrated solutions
+- Software architecture, UI/UX principles, and scalable application design
 
 ---
 
 ## Technical Skills
 
-**Programming Languages**
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | JavaScript, TypeScript, Python, Java, PHP, Dart, HTML, CSS |
+| **Frontend** | React, Next.js, Tailwind CSS, Bootstrap, Figma |
+| **Backend and Databases** | Node.js, Express.js, MongoDB, MySQL, Firebase |
+| **Mobile and Desktop** | Flutter, Electron.js |
+| **Tooling** | Git, GitHub, VS Code, Postman, Linux, Docker |
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,dart,html,css" />
+<div align="center">
 
-**Frontend Development**
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,dart,html,css,react,nextjs,tailwind,bootstrap,figma" />
+<br />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,flutter,electron,git,github,vscode,postman,linux,docker" />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma" />
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql" />
-
-**Mobile & Desktop Development**
-
-<img src="https://skillicons.dev/icons?i=flutter,electron" />
-
-**Tools & Development Environment**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker" />
+</div>
 
 ---
 
 ## Featured Projects
 
-### 01. Pitwall – Real-Time Sim-Racing Telemetry System
+### Pitwall: Real-Time Sim-Racing Telemetry System
 
-A desktop telemetry and performance analysis application designed for sim-racing environments. Focused on real-time UDP telemetry processing, track visualization, driver performance monitoring, and automated lap-time verification.
+A desktop application for telemetry capture and performance analysis in sim-racing environments. It processes live UDP telemetry streams and presents track visualization, driver performance monitoring, and automated lap-time verification.
 
-**Technologies:** Electron.js, JavaScript, React, Node.js, Real-Time UDP
+- Real-time UDP telemetry ingestion and parsing
+- Track visualization and driver performance dashboards
+- Automated lap-time verification
 
-### 02. QR Login – Workplace Attendance Management
+**Technologies:** Electron.js, JavaScript, React, Node.js, UDP
 
-A MERN-stack attendance management application featuring QR-based employee check-in/check-out functionality and role-based access for administrators, HR personnel, and operators.
+### QR Login: Workplace Attendance Management
+
+A MERN-stack attendance platform that replaces manual tracking with QR-based employee check-in and check-out. Role-based access control separates the responsibilities of administrators, HR personnel, and operators.
+
+- QR-based check-in and check-out workflow
+- Role-based access for administrators, HR, and operators
 
 **Technologies:** React, Node.js, Express.js, MongoDB
 
 [View Repository](https://github.com/AshenRuvinda/QR-Login)
 
-### 03. Password Wallet
+### Password Wallet
 
-A password and credential management application designed to organize and manage sensitive account information through a structured web application.
+A web application for organizing and managing sensitive account credentials in a structured, centralized interface.
 
 **Technologies:** Next.js, TypeScript, MongoDB
 
 [View Repository](https://github.com/AshenRuvinda/Password-Wallet)
 
-### 04. CarGame – MERN Application
+### CarGame: MERN Application
 
-A full-stack application developed using the MERN technology stack, demonstrating frontend and backend integration.
+A full-stack application that demonstrates end-to-end integration between a React frontend and a Node.js and Express backend backed by MongoDB.
 
 **Technologies:** MongoDB, Express.js, React, Node.js
 
 [View Repository](https://github.com/AshenRuvinda/CarGame-MERN)
 
-### 05. Personal Portfolio
+### Personal Portfolio
 
-A personal developer portfolio showcasing technical skills, development projects, professional interests, and creative work.
+A developer portfolio presenting technical skills, projects, professional interests, and creative work.
 
 **Technologies:** HTML, CSS, JavaScript
 
 ---
 
-## Research & Development
+## Research and Development
 
-**Real-Time Telemetry Processing & Automated Performance Verification in Sim-Racing Environments**
+**Real-Time Telemetry Processing and Automated Performance Verification in Sim-Racing Environments**
 
-<sub>Final-Year Undergraduate Research | Ongoing</sub>
+<sub>Final-Year Research Project | NSBM Green University</sub>
 
-Researching low-latency binary UDP telemetry processing, real-time data parsing, anomaly detection, and automated lap-time verification in sim-racing environments.
+This research investigates low-latency processing of binary UDP telemetry and its application to automated performance verification in sim-racing.
 
-Key research areas:
+**Key research areas**
 
-- Real-time telemetry stream ingestion.
-- Binary packet parsing and data processing.
-- Performance analysis and anomaly detection.
-- Lap-time validation algorithms.
-- Telemetry visualization and driver performance evaluation.
+- Real-time telemetry stream ingestion
+- Binary packet parsing and data processing
+- Performance analysis and anomaly detection
+- Lap-time validation algorithms
+- Telemetry visualization and driver performance evaluation
 
 ---
 
@@ -135,9 +138,9 @@ Key research areas:
 
 ---
 
-## Let's Connect
+## Contact
 
-I'm always interested in connecting with developers, collaborating on interesting projects, and exploring new opportunities in software engineering.
+I welcome conversations about software engineering roles, collaboration on meaningful projects, and opportunities to grow as an engineer.
 
 <div align="center">
 
