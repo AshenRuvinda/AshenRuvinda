@@ -1,112 +1,170 @@
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=26&duration=1800&pause=800&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Ashen+Ruvinda+%F0%9F%8C%8C;Software+Architect+%7C+Code+Alchemist;Building+Tomorrow's+Digital+World;Mastering+Web+%26+Mobile+Innovation" alt="Typing animation">
+ <!-- Header -->
+<div align="center">
 
-<!-- Badges -->
-<img src="https://img.shields.io/badge/Software%20Developer-22d3ee?style=for-the-badge&logo=codeigniter&logoColor=1e293b&color=0f172a">
-<img src="https://img.shields.io/badge/Sri%20Lanka-14b8a6?style=for-the-badge&logo=earth&logoColor=1e293b&color=0f172a">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=25&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ashen+Ruvinda;Full-Stack+Software+Developer;Building+Web%2C+Mobile+%26+Desktop+Applications;Exploring+Real-Time+Systems+%26+AI" alt="Typing SVG" />
 
-<!-- About -->
-## 👨‍💻 About Ashen Ruvinda
+<p>
+  <b>Software Engineering Undergraduate | Full-Stack Developer</b>
+</p>
 
-- 💻 Crafting scalable web and mobile apps with a focus on seamless UX  
-- 📱 Skilled in **Flutter**, **Python**, **React**, **HTML/CSS/JS**, and modern frameworks  
-- 🧠 Driven by full-stack innovation, UI/UX excellence, and open-source passion  
-- 🌎 Based in **Sri Lanka** | Connecting with global tech communities  
-- 🎯 Exploring AI-integrated apps and next-gen web solutions  
+<p>
+  Designing and developing practical digital solutions through modern technologies, thoughtful engineering, and continuous learning.
+</p>
 
----
+<p>
+  <img src="https://img.shields.io/badge/Location-Sri%20Lanka-0f172a?style=flat-square&logo=googlemaps&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-0f172a?style=flat-square&logo=code&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-0f172a?style=flat-square&logo=handshake&logoColor=38BDF8" />
+</p>
 
-## 🚀 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=flutter,python,react,html,css,js,firebase,git,github,figma,linux,tailwind,docker&perline=7">
-
----
-
-## 🧠 Featured Projects
-
-| 🚀 Project | Description | Tech Stack |
-|-----------|-------------|------------|
-| 🌐 Ashen-Ruvinda-Portfolio | Personal portfolio with a modern, responsive design showcasing my work | HTML, CSS, JavaScript |
-| 📱 T Easy Pay-App | Train Ticket Booking App | Flutter |
-| 🛒 E-Commerce-Website | Feature-rich e-commerce platform with dynamic UI | React, Firebase |
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## About Me
 
-<img src="https://github-readme-stats.vercel.app/api?username=AshenRuvinda&show_icons=true&theme=transparent&count_private=true&hide=issues&bg_color=0f172a&title_color=22d3ee&text_color=e2e8f0&icon_color=14b8a6" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AshenRuvinda&theme=transparent&background=0f172a&ring=22d3ee&fire=14b8a6&currStreakLabel=22d3ee&sideLabels=e2e8f0" width="48%">
+I'm **Ashen Ruvinda**, a final-year Software Engineering undergraduate at NSBM Green University, Sri Lanka, passionate about building modern, scalable, and user-focused software applications.
 
----
+My primary focus is full-stack development, with experience developing web applications, mobile applications, desktop software, and interactive user interfaces.
 
-## 🌐 Let's Connect
+I enjoy transforming ideas into functional software products, exploring emerging technologies, solving engineering challenges, and continuously improving my technical capabilities.
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=e2e8f0&color=0f172a">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=e2e8f0&color=0f172a">
-<img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=vercel&logoColor=e2e8f0&color=0f172a">
-
----
-
-## ⚡ Fun Fact
-**Code is a canvas — every commit paints a story of innovation.**
+- Full-stack development with the MERN stack.
+- Building modern web applications using React and Next.js.
+- Developing RESTful APIs and backend services.
+- Creating cross-platform mobile applications with Flutter.
+- Developing desktop applications with Electron.js.
+- Exploring real-time data processing, telemetry systems, and AI-integrated solutions.
+- Interested in software architecture, UI/UX, and scalable application design.
 
 ---
 
-## 🛰️ Profile Metrics
+## Technical Skills
 
-<img src="https://komarev.com/ghpvc/?username=AshenRuvinda&color=22d3ee&style=for-the-badge">
+**Programming Languages**
 
-<!-- Optional: GitHub README Styling (only applies when viewed as rendered HTML) -->
-<style>
-  body {
-    background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
-    color: #e2e8f0;
-    font-family: 'Space Mono', monospace;
-  }
-  a {
-    color: #22d3ee;
-    text-decoration: none;
-    transition: all 0.3s ease-in-out;
-  }
-  a:hover {
-    color: #14b8a6;
-    text-shadow: 0 0 10px #14b8a6, 0 0 20px #22d3ee;
-  }
-  table {
-    border-collapse: collapse;
-    width: 100%;
-    background: #1e293b;
-    border-radius: 12px;
-    overflow: hidden;
-    box-shadow: 0 6px 16px rgba(34, 211, 238, 0.3);
-    transition: transform 0.3s ease;
-  }
-  table:hover {
-    transform: translateY(-4px);
-  }
-  th, td {
-    padding: 14px;
-    text-align: left;
-    border-bottom: 1px solid #334155;
-  }
-  th {
-    background: linear-gradient(90deg, #22d3ee, #14b8a6);
-    color: #0f172a;
-    font-weight: 700;
-  }
-  tr {
-    transition: background 0.3s ease;
-  }
-  tr:hover {
-    background: #334155;
-  }
-  p, h3 {
-    margin: 10px 0;
-    animation: fadeIn 1s ease-in;
-  }
-  @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(10px); }
-    to   { opacity: 1; transform: translateY(0); }
-  }
-  
-</style>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,dart,html,css" />
+
+**Frontend Development**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql" />
+
+**Mobile & Desktop Development**
+
+<img src="https://skillicons.dev/icons?i=flutter,electron" />
+
+**Tools & Development Environment**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker" />
+
+---
+
+## Featured Projects
+
+### 01. Pitwall – Real-Time Sim-Racing Telemetry System
+
+A desktop telemetry and performance analysis application designed for sim-racing environments. Focused on real-time UDP telemetry processing, track visualization, driver performance monitoring, and automated lap-time verification.
+
+**Technologies:** Electron.js, JavaScript, React, Node.js, Real-Time UDP
+
+### 02. QR Login – Workplace Attendance Management
+
+A MERN-stack attendance management application featuring QR-based employee check-in/check-out functionality and role-based access for administrators, HR personnel, and operators.
+
+**Technologies:** React, Node.js, Express.js, MongoDB
+
+[View Repository](https://github.com/AshenRuvinda/QR-Login)
+
+### 03. Password Wallet
+
+A password and credential management application designed to organize and manage sensitive account information through a structured web application.
+
+**Technologies:** Next.js, TypeScript, MongoDB
+
+[View Repository](https://github.com/AshenRuvinda/Password-Wallet)
+
+### 04. CarGame – MERN Application
+
+A full-stack application developed using the MERN technology stack, demonstrating frontend and backend integration.
+
+**Technologies:** MongoDB, Express.js, React, Node.js
+
+[View Repository](https://github.com/AshenRuvinda/CarGame-MERN)
+
+### 05. Personal Portfolio
+
+A personal developer portfolio showcasing technical skills, development projects, professional interests, and creative work.
+
+**Technologies:** HTML, CSS, JavaScript
+
+---
+
+## Research & Development
+
+**Real-Time Telemetry Processing & Automated Performance Verification in Sim-Racing Environments**
+
+<sub>Final-Year Undergraduate Research | Ongoing</sub>
+
+Researching low-latency binary UDP telemetry processing, real-time data parsing, anomaly detection, and automated lap-time verification in sim-racing environments.
+
+Key research areas:
+
+- Real-time telemetry stream ingestion.
+- Binary packet parsing and data processing.
+- Performance analysis and anomaly detection.
+- Lap-time validation algorithms.
+- Telemetry visualization and driver performance evaluation.
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AshenRuvinda&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8&hide=issues" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AshenRuvinda&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e" />
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshenRuvinda&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" />
+
+</div>
+
+---
+
+## Let's Connect
+
+I'm always interested in connecting with developers, collaborating on interesting projects, and exploring new opportunities in software engineering.
+
+<div align="center">
+
+<a href="https://github.com/AshenRuvinda">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL_ADDRESS">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+**Engineering ideas into meaningful digital experiences.**
+
+<img src="https://komarev.com/ghpvc/?username=AshenRuvinda&style=flat-square&color=38bdf8&label=PROFILE+VIEWS" />
+
+</div>
